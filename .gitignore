@@ -1,1 +1,9 @@
+# Environment
 venv
+
+# Cache
+.DS_Store
+
+# Data
+Papers
+
